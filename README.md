@@ -1,0 +1,1 @@
+This project focuses on detecting circular shapes in images and analyzing them to calculate the number of triangular segments (slices) inside the circle. Using image processing techniques, the system identifies the circle and determines the divisions based on visible contours or edges.
